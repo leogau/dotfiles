@@ -147,3 +147,6 @@
 
 ;; Hide toolbar
 (tool-bar-mode -1)
+
+;; Set font
+(set-default-font "Consolas 14")
